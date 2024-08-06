@@ -1,4 +1,4 @@
-# demo
+# MATSA: Multi-Agent Table Structure Attribution
 
 Demo Page for MATSA (submission to EMNLP 2024 - System Tracks)
 
